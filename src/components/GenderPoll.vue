@@ -9,7 +9,7 @@
    <div class="row">
         <div class="col">
            <div class="hr-container">
-               <h1 >FEMALE</h1>
+               <h4 >FEMALE</h4>
            </div>
               <i class="fa poll-icon-size fa-female" title="Female" label="Female"></i>
             <div class="ctn-container">
@@ -26,7 +26,7 @@
         </div>
         <div class="col">
            <div class="hr-container">
-              <h1 >MALE</h1>
+              <h4 >MALE</h4>
            </div>
                <i class="fa fa-male poll-icon-size" title="Male" ></i>
            <div class="ctn-container">
